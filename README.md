@@ -18,18 +18,18 @@
 
 ## 🗂️ 폴더 구조 (Structure)
 - 백준 문제 풀이  
-[baekjoon](/src/main/java/baekjoon)
+[baekjoon](/src/main/java/baekjoon)  
 
 
 - 프로그래머스 문제 풀이  
-[programmers](/src/main/java/programmers)
+[programmers](/src/main/java/programmers)  
 
 
 
 ## 🔗 링크 (Links)
-**Baekjoon**: [https://www.acmicpc.net/user/jimin143](https://www.acmicpc.net/user/jimin143)   
-**Programmers**: [https://school.programmers.co.kr/](https://school.programmers.co.kr/)  
-**Solved.ac 프로필**: [https://solved.ac/profile/jimin143](https://solved.ac/profile/jimin143)
+**[Baekjoon](https://www.acmicpc.net/user/jimin143)**   
+**[Programmers](https://school.programmers.co.kr/)**  
+**[Solved.ac](https://solved.ac/profile/jimin143)**
 
 
 ## 🌱 앞으로의 목표 (Next Steps)
